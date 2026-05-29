@@ -15,4 +15,8 @@ public interface PassengerService {
      * @return true si el pasajero es VIP, false en caso contrario
      */
     boolean isVip(Long passengerId);
+
 }
+
+
+
